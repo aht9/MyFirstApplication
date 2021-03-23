@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirst Application</string>
+    <string name="qoli2">qoliqoli</string>
+    <string name="qoli20">qoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoli</string>
+    <string name="qoli40">qoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoliqoli</string>
+    <string name="description">Description :</string>
+    <string name="on_created">On_Created :</string>
+    <string name="on_updated">On_Updated :</string>
+    <string name="product_image">Product image :</string>
+    <string name="upload">Upload</string>
+    <string name="signature">Signature :</string>
+</resources>
